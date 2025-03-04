@@ -47,6 +47,10 @@ For example, learners can submit a regrade request for up to 5 labs and/or readi
 meeting the A level.
 
 The following table provides an example of how the course grade was determined.
+Note that to earn a given course grade a learner must meet (or exceed) all specifications listed in that grade's column.
+For example, if a learner had everything for A, but used 7 regrades, they would earn a C.
+Also note that it is a combination of the quantity of items completed in relation to the quantity 
+of re-takes/re-submissions that determines the course grade.
 
 | Assignment (qty) | Goal             |                    A                    |                    B                     |                     C                     |
 |---------------|------------------|:---------------------------------------:|:----------------------------------------:|:-----------------------------------------:|
