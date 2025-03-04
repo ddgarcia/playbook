@@ -4,7 +4,7 @@ slug: binary-grading
 ---
 ## Intent
 
-Utilize aspects of specifications grading, to reduce the frustrations of traditional points-based grading, and create a better learning environment.  
+Use pass-fail grading and retakes to simplify grading and improve clarity for students.  
 
 ## Problem
 
@@ -26,8 +26,8 @@ provide a useful solution.
 + Pass/fail scoring
 + Retakes
 + Simplified grade calculation
-+ Mixed assessment types
 + Recommend a pace
++ Mixed assessment types
 
 ## Applicability
 
@@ -54,17 +54,19 @@ re-dos, due to the lack of time.
 3.  **Simplified grade calculation:** Similar to Specifications Grading, 
 a learner's course grade is based on how many assessed items earn a "complete."  
 
-4.  **Mixed assessment types:** A given course can have a variety of assessment approaches.
+4. **Recommend a pace:** Due dates are provided for each assessable item,
+but are not enforced, nor is there any penalty for a learner submitting work late.
+This sets a pace for the learner, and provides guidance as the progress. 
+
+A fifth practice, **Mixed assessment types**, can be used to improve binary grading, but may not
+be strictly required to implement it. 
+A given course can have a variety of assessment approaches.
 For example, in-class quizzes, take-home projects, etc. 
 Lower course grades can be earned by doing just one type of assessment, 
 while higher grades require a variety of assessment types.
 The types and quantity of assessment items can vary, based on the needs of the course.
 Final exams can be graded using a typical point-based approach, 
 with higher levels of points translating into higher quantities of completed items.
-
-5. **Recommend a pace:** Due dates are provided for each assessable item,
-but are not enforced, nor is there any penalty for a learner submitting work late.
-This sets a pace for the learner, and provides guidance as the progress. 
 
 ## See Also
 
