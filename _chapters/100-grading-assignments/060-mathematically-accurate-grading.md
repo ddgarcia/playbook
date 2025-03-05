@@ -31,7 +31,13 @@ To make grades more mathematically accurate, and more reflective of student lear
 
 3. **Establish a minimum grade.** If you can't use a smaller grading scale, you can still reduce the size of the "failure range" by setting a minimum "failing" grade, e.g. 50. This makes it possible for students to recover from occasional low grades, and does away with the nonsensical idea of different "degrees" of failure. 
 
-4. **Weight recent experience more heavily.** In many cases, it is sufficient for students to achieve proficiency (or higher) by the end of the term, regardless of the particular path a student took to get there. For instance, students with less preparation or fewer resources may need more time and more revisions to achieve proficiency, than those with better preparation and more resources. Weighting final grades more heavily towards the most recent assessments more accurately reflects student learning -- if a student performs at the proficient level by the end of the course, their final grade should reflect this. This also promotes a growth mindset in students (and instructors!).
+4. **Weight recent experience more heavily.** In many cases, it is sufficient for students to achieve proficiency 
+(or higher) by the end of the term, regardless of the particular path a student took to get there. For instance, 
+students with less preparation or fewer resources may need more time and more revisions to achieve proficiency, 
+than those with better preparation and more resources. Weighting final grades more heavily towards the most 
+recent assessments more accurately reflects student learning -- if a student performs at the proficient 
+level by the end of the course, their final grade should reflect this. This also promotes a growth 
+mindset in students (and instructors!).
 
 
 ## Applicability

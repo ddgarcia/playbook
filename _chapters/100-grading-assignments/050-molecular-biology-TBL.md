@@ -8,7 +8,11 @@ Grading strategy for Team Based Learning (TBL) exercises to improve individual p
 
 ## Problem
 
-Team Based Learning (TBL) is an active learning strategy that incentivizes peer-learning among students. At the The Premedical Urban Leaders Summer Enrichment (PULSE) Program, TBL exercises are used to assess students preparation, but a risk exists that students (particularly weaker students) may engage less in individual preparation and participation in the team activities because they know that all members will receive the same grade, independently on their contribution.
+Team Based Learning (TBL) is an active learning strategy that incentivizes peer-learning among students. At the The 
+Premedical Urban Leaders Summer Enrichment (PULSE) Program, TBL exercises are used to assess students preparation, 
+but a risk exists that students (particularly weaker students) may engage less in individual preparation and 
+participation in the team activities because they know that all members will receive the same grade, 
+independently on their contribution.
  
 ## Solution
 
