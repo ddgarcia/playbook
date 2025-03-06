@@ -1,10 +1,10 @@
 ---
-title: Getting Buy-in
-slug: getting-buy-in
+title: Class Reflections for Getting Buy-in
+slug: class-reflections-for-getting-buy-in
 ---
 ## Intent
 
-Equitable grading practices require getting buy-in from stakeholders such as administrators and students.
+Equitable grading practices require getting buy-in from stakeholders such as administrators and students: class reflections can be one way to get buy-in from students.
 
 ## Problem
 
